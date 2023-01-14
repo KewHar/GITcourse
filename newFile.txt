@@ -1,0 +1,2 @@
+Changes in newFile.
+More changes.
